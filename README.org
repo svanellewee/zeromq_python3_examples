@@ -1,0 +1,7 @@
+#+TITLE: ZeroMQ examples with python async await
+
+I'm being silly here, trying to learn 2 things at once! Join my insanity and comment via PR's or Issues.
+
+I'm taking the zeromq examples and translating them into python3 async await idioms. Probably not idiomatic, so that's where you come in.
+
+Bring me criticism! Tell me how much my examples suck, but make sure you add good reasons why. Don't be that guy.
